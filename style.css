@@ -1,0 +1,29 @@
+.nav {
+    overflow: hidden;
+}
+.nav a {
+    float: center;
+    color: #444337;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    height:500px;
+    font-family: courier
+}
+
+.h1{
+    font-family: courier;
+    font-size:50px;
+    color:#444337;
+}
+
+
+body {
+    background-color: #CAD8D7;
+    overflow-y: scroll;
+}
+
+.bg {
+    margin-left: 100px;
+}
